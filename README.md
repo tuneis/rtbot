@@ -1,3 +1,12 @@
+# Slack Integration
+
+- Add slack token: HUBOT_SLACK_TOKEN=YOUR-TOKEN
+- Run the below command:
+  
+  ```
+  ./bin/hubot -a slack
+  ```
+  
 # rtbot
 
 rtbot is a chat bot built on the [Hubot][hubot] framework. It was
